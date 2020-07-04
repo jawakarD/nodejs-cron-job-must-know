@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/wahengchang/nodejs-cron-job-must-know#readme",
   "dependencies": {
-    "node-cron": "^1.2.1"
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3"
   }
 }
